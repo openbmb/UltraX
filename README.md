@@ -1,15 +1,10 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle">
+<p align="center">
+  <a href="https://huggingface.co/collections/openbmb/ultradata">
+    <img src="./assets/ultradata-logo.png" alt="OpenBMB UltraData" width="350"/>
+  </a>
+</p>
 
-# UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing
-
-</td>
-<td width="280" align="right" style="padding-top: 14px;" valign="top">
-<a href="https://huggingface.co/collections/openbmb/ultradata"><img src="./assets/ultradata-logo.png" width="250"/></a>
-</td>
-</tr>
-</table>
+<h1 align="center">UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing</h1>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2607.08646">📜 Paper</a> |
@@ -90,7 +85,7 @@ UltraX achieves the **highest average performance on all five corpora**, winning
 ### Setup
 
 ```bash
-git clone https://github.com/openbmb/UltraX.git
+git clone https://github.com/BIGWangYuDong/UltraX.git
 cd UltraX
 conda create -n ultrax python=3.10
 conda activate ultrax
