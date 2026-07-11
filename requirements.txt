@@ -1,0 +1,7 @@
+pyarrow
+pandas
+transformers
+requests
+torch
+vllm
+ms-swift
