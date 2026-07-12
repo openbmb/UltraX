@@ -1,17 +1,18 @@
+# UltraX：基于自适应程序化编辑的大规模预训练数据精炼
 <p align="center">
   <a href="https://huggingface.co/collections/openbmb/ultradata">
     <img src="./assets/ultradata-logo.png" alt="OpenBMB UltraData" width="350"/>
   </a>
+  <a href="https://huggingface.co/collections/openbmb/ultradata">
+    <img src="./assets/ultrax-logo.png" alt="UltraX Logo" width="350"/>
+  </a>
 </p>
-
-<h1 align="center">UltraX：基于自适应程序化编辑的大规模预训练数据精炼</h1>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2607.08646">📜 论文</a> |
 <a href="https://huggingface.co/datasets/openbmb/UltraX-Preview">🤗 数据集</a> |
 <a href="https://huggingface.co/openbmb/UltraX-0.6B-Preview">🤗 模型</a> |
-<a href="https://huggingface.co/collections/openbmb/ultradata">📦 UltraData 合集</a> |
-<a href="https://opensource.org/license/apache-2-0">📄 License: Apache 2.0</a>
+<a href="https://huggingface.co/collections/openbmb/ultradata">📦 UltraData 合集</a>
 </p>
 
 <p align="center">
@@ -34,7 +35,8 @@
 
 ## 📢 最新动态
 
-- **[2026.07]** 🎉 UltraX 代码、精炼模型和精炼数据集正式开源。
+- **[2026.07.13]** UltraX 代码库、模型和精炼数据集现已在 GitHub 与 Hugging Face 上发布。🚀🚀🚀
+- **[2025.07.10]** UltraX 技术报告已发布于 [arXiv](https://arxiv.org/abs/2607.08646)。🔥🔥🔥
 
 ## 💡 亮点
 

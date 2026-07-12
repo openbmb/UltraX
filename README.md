@@ -1,17 +1,18 @@
+# UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing
 <p align="center">
   <a href="https://huggingface.co/collections/openbmb/ultradata">
     <img src="./assets/ultradata-logo.png" alt="OpenBMB UltraData" width="350"/>
   </a>
+  <a href="https://huggingface.co/collections/openbmb/ultradata">
+    <img src="./assets/ultrax-logo.png" alt="UltraX Logo" width="350"/>
+  </a>
 </p>
-
-<h1 align="center">UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing</h1>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2607.08646">📜 Paper</a> |
 <a href="https://huggingface.co/datasets/openbmb/UltraX-Preview">🤗 Datasets</a> |
 <a href="https://huggingface.co/openbmb/UltraX-0.6B-Preview">🤗 Models</a> |
-<a href="https://huggingface.co/collections/openbmb/ultradata">📦 UltraData Collection</a> |
-<a href="https://opensource.org/license/apache-2-0">📄 License: Apache 2.0</a>
+<a href="https://huggingface.co/collections/openbmb/ultradata">📦 UltraData Collection</a>
 </p>
 
 <p align="center">
@@ -34,7 +35,8 @@ English |
 
 ## 📢 News
 
-- **[2026.07]** 🎉 We release the UltraX codebase, refinement models, and refined datasets.
+- **[2026.07.13]** UltraX codebase, refinement model, and refined datasets are now available on GitHub and Hugging Face. 🚀🚀🚀
+- **[2025.07.10]** UltraX technical report is available on [arXiv](https://arxiv.org/abs/2607.08646). 🔥🔥🔥
 
 ## 💡 Highlights
 
