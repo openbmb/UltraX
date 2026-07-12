@@ -3,6 +3,7 @@
   <a href="https://huggingface.co/collections/openbmb/ultradata">
     <img src="./assets/ultradata-logo.png" alt="OpenBMB UltraData" width="350"/>
   </a>
+  <br/>
   <a href="https://huggingface.co/collections/openbmb/ultradata">
     <img src="./assets/ultrax-logo.png" alt="UltraX Logo" width="350"/>
   </a>
