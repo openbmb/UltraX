@@ -37,7 +37,7 @@
 ## 📢 最新动态
 
 - **[2026.07.13]** UltraX 代码库、模型和精炼数据集现已在 GitHub 与 Hugging Face 上发布。🚀🚀🚀
-- **[2025.07.10]** UltraX 技术报告已发布于 [arXiv](https://arxiv.org/abs/2607.08646)。🔥🔥🔥
+- **[2026.07.10]** UltraX 技术报告已发布于 [arXiv](https://arxiv.org/abs/2607.08646)。🔥🔥🔥
 
 ## 💡 亮点
 
