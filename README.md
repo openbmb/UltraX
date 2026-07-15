@@ -37,7 +37,7 @@ English |
 ## 📢 News
 
 - **[2026.07.13]** UltraX codebase, refinement model, and refined datasets are now available on GitHub and Hugging Face. 🚀🚀🚀
-- **[2025.07.10]** UltraX technical report is available on [arXiv](https://arxiv.org/abs/2607.08646). 🔥🔥🔥
+- **[2026.07.10]** UltraX technical report is available on [arXiv](https://arxiv.org/abs/2607.08646). 🔥🔥🔥
 
 ## 💡 Highlights
 
